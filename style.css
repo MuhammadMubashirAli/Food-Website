@@ -1,0 +1,81 @@
+body{
+margin: 0;
+padding: 0;
+
+}
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+height: 80px;
+border-bottom: 1px solid black;
+
+
+
+}
+
+
+
+
+ul>li{
+    display: inline;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.heading{
+    margin-top: 30px;
+    text-align: center;
+font-weight: bold;
+
+}
+
+
+
+
+
+
+
+.red{
+color: red;
+
+}
+
+.heading>h2{
+    font-weight: bold;
+}
+
+.img_container{
+    flex-wrap: nowrap;
+}
+
+
+.cousines{
+font-weight: bolder;
+color: gray;
+font-size: 80px;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 30px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
